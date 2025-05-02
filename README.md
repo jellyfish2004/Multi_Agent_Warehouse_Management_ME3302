@@ -1,5 +1,11 @@
 # ME3302 Warehouse Management
 
+Group Members:
+- ME22B208 - Trisha Wadhwani
+- ME22B223 - Shyamkumar 
+- ME22B224 - Mayank Chandak
+- ME22B227 - Mahendra Kurup
+
 This repository contains implementations of various multi-agent reinforcement learning approaches for warehouse management and task allocation.
 
 ## Project Overview
