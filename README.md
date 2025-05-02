@@ -2,7 +2,7 @@
 
 Group Members:
 - ME22B208 - Trisha Wadhwani
-- ME22B223 - Shyamkumar 
+- ME22B223 - Shyam Kumar 
 - ME22B224 - Mayank Chandak
 - ME22B227 - Mahendra Kurup
 
